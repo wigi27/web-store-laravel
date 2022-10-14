@@ -39,7 +39,6 @@
                                   type="text"
                                   name="name"
                                   class="form-control"
-                                  value="Papel La Casa"
                                   value="{{ $product->name }}"
                                 />
                               </div>
@@ -51,7 +50,6 @@
                                   type="number"
                                   name="price"
                                   class="form-control"
-                                  value="200"
                                   value="{{ $product->price }}"
                                 />
                               </div>
